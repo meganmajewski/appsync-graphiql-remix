@@ -1,6 +1,6 @@
 # Welcome!
 
-This repo is the final code solution for a [yet to be posted] article about adding a Graphiql Explorer to an App Sync API.
+This repo is the final code solution for [this article](https://medium.com/@megan_majewski/explore-aws-appsync-apis-with-graphiql-outside-the-aws-console-f5c74b97c900) about adding a Graphiql Explorer to an App Sync API.
 
 This project was started using Remix.
 
